@@ -8,7 +8,7 @@ You are allowed to remove advertising after you purchased a licence
 
 // ip-protection in seconds
 $counter_expire = 600;
-$counter_filename = "counter.txt";
+$counter_filename = "counter_text_en/counter.txt";
 
 // ignore agent list
 $counter_ignore_agents = array('bot', 'bot1', 'bot3');
